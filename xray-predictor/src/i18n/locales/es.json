@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "upload": "Subir",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Análisis de Radiografías con IA",
+    "subtitle": "Predicciones de imágenes médicas avanzadas al alcance de tu mano",
+    "cta": "Subir Radiografía",
+    "features": {
+      "title": "Por Qué Elegirnos",
+      "fast": {
+        "title": "Ultra Rápido",
+        "desc": "Obtén predicciones en segundos"
+      },
+      "accurate": {
+        "title": "Altamente Preciso",
+        "desc": "Impulsado por modelos de IA avanzados"
+      },
+      "secure": {
+        "title": "Seguro y Privado",
+        "desc": "Tus datos siempre están protegidos"
+      }
+    }
+  },
+  "upload": {
+    "title": "Subir Imagen de Radiografía",
+    "subtitle": "Arrastra y suelta o haz clic para seleccionar",
+    "dragDrop": "Arrastra y suelta tu radiografía aquí",
+    "or": "o",
+    "browse": "Explorar Archivos",
+    "uploading": "Subiendo...",
+    "processing": "Procesando...",
+    "results": "Resultados de Predicción",
+    "noFile": "Ningún archivo seleccionado",
+    "error": "Error al subir archivo",
+    "download": "Descargar",
+    "patientName": "Nombre del Paciente",
+    "patientNamePlaceholder": "Ingrese el nombre del paciente (opcional)"
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "subtitle": "Revolucionando la imagen médica con IA",
+    "story": {
+      "title": "Nuestra Historia",
+      "p1": "Somos un equipo de desarrolladores apasionados y profesionales médicos dedicados a hacer que la imagen médica avanzada impulsada por IA sea accesible para todos.",
+      "p2": "Nuestra plataforma utiliza modelos de aprendizaje automático de última generación para analizar imágenes de radiografía y proporcionar predicciones precisas, ayudando a los profesionales de la salud a tomar decisiones informadas más rápido."
+    },
+    "team": {
+      "title": "Nuestro Equipo"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Nos encantaría saber de ti",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito!",
+    "error": "Error al enviar mensaje"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "tryAgain": "Intentar de Nuevo",
+    "darkMode": "Modo Oscuro",
+    "lightMode": "Modo Claro"
+  },
+  "404": {
+    "title": "404",
+    "subtitle": "Página No Encontrada",
+    "message": "La página que buscas no existe.",
+    "home": "Ir al Inicio"
+  }
+}
+

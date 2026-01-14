@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home",
+    "upload": "Upload",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "AI-Powered X-Ray Analysis",
+    "subtitle": "Advanced medical imaging predictions at your fingertips",
+    "cta": "Upload X-Ray",
+    "features": {
+      "title": "Why Choose Us",
+      "fast": {
+        "title": "Lightning Fast",
+        "desc": "Get predictions in seconds"
+      },
+      "accurate": {
+        "title": "Highly Accurate",
+        "desc": "Powered by advanced AI models"
+      },
+      "secure": {
+        "title": "Secure & Private",
+        "desc": "Your data is always protected"
+      }
+    }
+  },
+  "upload": {
+    "title": "Upload X-Ray Image",
+    "subtitle": "Drag and drop or click to select",
+    "dragDrop": "Drag & drop your X-ray image here",
+    "or": "or",
+    "browse": "Browse Files",
+    "uploading": "Uploading...",
+    "processing": "Processing...",
+    "results": "Prediction Results",
+    "noFile": "No file selected",
+    "error": "Error uploading file",
+    "download": "Download",
+    "patientName": "Patient Name",
+    "patientNamePlaceholder": "Enter patient name (optional)"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Revolutionizing medical imaging with AI",
+    "story": {
+      "title": "Our Story",
+      "p1": "We are a team of passionate developers and medical professionals dedicated to making advanced AI-powered medical imaging accessible to everyone.",
+      "p2": "Our platform uses state-of-the-art machine learning models to analyze X-ray images and provide accurate predictions, helping healthcare professionals make informed decisions faster."
+    },
+    "team": {
+      "title": "Our Team"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "404": {
+    "title": "404",
+    "subtitle": "Page Not Found",
+    "message": "The page you're looking for doesn't exist.",
+    "home": "Go Home"
+  }
+}
+

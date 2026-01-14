@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "upload": "Télécharger",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Analyse de Radiographie par IA",
+    "subtitle": "Prédictions d'imagerie médicale avancées à portée de main",
+    "cta": "Télécharger une Radiographie",
+    "features": {
+      "title": "Pourquoi Nous Choisir",
+      "fast": {
+        "title": "Ultra Rapide",
+        "desc": "Obtenez des prédictions en quelques secondes"
+      },
+      "accurate": {
+        "title": "Très Précis",
+        "desc": "Alimenté par des modèles d'IA avancés"
+      },
+      "secure": {
+        "title": "Sécurisé et Privé",
+        "desc": "Vos données sont toujours protégées"
+      }
+    }
+  },
+  "upload": {
+    "title": "Télécharger une Image de Radiographie",
+    "subtitle": "Glissez-déposez ou cliquez pour sélectionner",
+    "dragDrop": "Glissez-déposez votre radiographie ici",
+    "or": "ou",
+    "browse": "Parcourir les Fichiers",
+    "uploading": "Téléchargement...",
+    "processing": "Traitement...",
+    "results": "Résultats de Prédiction",
+    "noFile": "Aucun fichier sélectionné",
+    "error": "Erreur lors du téléchargement",
+    "download": "Télécharger",
+    "patientName": "Nom du Patient",
+    "patientNamePlaceholder": "Entrez le nom du patient (optionnel)"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "subtitle": "Révolutionner l'imagerie médicale avec l'IA",
+    "story": {
+      "title": "Notre Histoire",
+      "p1": "Nous sommes une équipe de développeurs passionnés et de professionnels de la santé dédiés à rendre l'imagerie médicale avancée alimentée par l'IA accessible à tous.",
+      "p2": "Notre plateforme utilise des modèles d'apprentissage automatique de pointe pour analyser les images de radiographie et fournir des prédictions précises, aidant les professionnels de la santé à prendre des décisions éclairées plus rapidement."
+    },
+    "team": {
+      "title": "Notre Équipe"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous serions ravis d'avoir de vos nouvelles",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le Message",
+    "sending": "Envoi...",
+    "success": "Message envoyé avec succès!",
+    "error": "Échec de l'envoi du message"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "tryAgain": "Réessayer",
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair"
+  },
+  "404": {
+    "title": "404",
+    "subtitle": "Page Non Trouvée",
+    "message": "La page que vous recherchez n'existe pas.",
+    "home": "Retour à l'Accueil"
+  }
+}
+
